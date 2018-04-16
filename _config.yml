@@ -97,11 +97,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Языки за рубежом"
+  avatar           : "/assets/images/2016К+Н160.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Наиля Рашитовна и Константин"
+  location         : "Казань"
+  email            : "studytrack.me@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
