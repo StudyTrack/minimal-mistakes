@@ -20,7 +20,7 @@ title                    : "Нужен язык?"
 title_separator          : "-"
 name                     : "Konstantin Likhtin"
 description              : "Детям и взрослым подбираем хороший бюджетный языковой курс (английский, испанский, немецкий, французский) за границей (Англия, Ирландия, Мальта, Германия, Испания, Франция, Чехия)."
-url                      : "http://studytrack.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://lihtin.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "StudyTrack/studytrack.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -101,14 +101,14 @@ author:
   avatar           : "/assets/images/2016К+Н160.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Наиля Рашитовна и Константин. Вместе с родней и учениками - StudyTrack"
   location         : "Казань"
-  email            : "studytrack.me@gmail.com"
+  email            : "studytrack@lihtin.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/StudyTrack"
   foursquare       :
   github           :
   gitlab           :
