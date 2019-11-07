@@ -2,11 +2,11 @@
 [Информация по учебной визе на сайте визового центра](https://www.vfsglobal.com/malta/Russia/Russian/Study-short-term.html).  
 [Адрес и время работы ВЦ в Казани](https://www.vfsglobal.com/malta/Russia/Russian/contact-us.html#6): ул. Парижской Коммуны, д.8 (вход с улицы Московская). Время приема документов (без записи) и выдачи паспортов: 09:00 - 16:00 (понедельник - пятница).
 ## Пакет документов на визу.
-[Список документов на учебную визу](http://www.vfsglobal.com/Malta/Russia/Russian/pdf/study.pdf).  
-Еще Визовый Центр просит [«Согласие на обработку персональных данных»](http://www.vfsglobal.com/Malta/Russia/Russian/pdf/Personal-data-processing.pdf) и **копию паспорта РФ** с фото и пропиской.  
+[Список документов на учебную визу](https://www.vfsglobal.com/malta/Russia/Russian/pdf/study.pdf).  
+Еще Визовый Центр просит [«Согласие на обработку персональных данных»](https://www.vfsglobal.com/malta/Russia/Russian/pdf/new-consent-form.pdf) и **копию паспорта РФ** с фото и пропиской.  
 **Письмо из школы** обычно с проживанием. Но можно забронировать гостинницу, airbnb.  
-[*Фото*](http://www.vfsglobal.com/Malta/Russia/Russian/Study-short-term.html#tourist_photoSpecs) недавние, по крайней мере, чтобы их не было в других визах паспорта.  
-[*Медстраховку* онлайн](https://polis812.ru/vzr) подешевле (925NPGR). В [списке документов на сайте](http://www.vfsglobal.com/Malta/Russia/Russian/Study-short-term.html#tourist_documents) пишут про **оригинал**, но достаточно распечатки первой страницы файла страховки, купленной в интернете. Поставить *подпись страхователя*.  
+[*Фото*](https://www.vfsglobal.com/Malta/Russia/Russian/Study-short-term.html#tourist_photoSpecs) недавние, по крайней мере, чтобы их не было в других визах паспорта.  
+[*Медстраховку* онлайн](https://polis812.ru/vzr) подешевле (код 925NPGR и баллы). В [списке документов на сайте](https://www.vfsglobal.com/Malta/Russia/Russian/Study-short-term.html#tourist_documents) пишут про **оригинал**, но достаточно распечатки первой страницы файла страховки, купленной в интернете. Поставить *подпись страхователя*.  
 **Справку**/выписку **банка** не старее 30 дней. Сумма в рублях из расчето от 45 евро в день. Можно чек по карте из банкомата. Скан карты сделают в ВЦ. Можно справку о покупке валюты.  
 **Справка с работы** или учебного заведения или копия пенсионного удостоверения.  
 Справка из **учебного заведения** не дольше 30 дней для освобождения от визового сбора.  
@@ -28,7 +28,7 @@
 Распечатать с двух сторон. Внизу 3-й и 4-й страницы поставить дату и подпись.
 
 ## Стоимость
-В ВЦ **заплатить** [2600 руб визового и 1850 руб сервисного сбора](http://www.vfsglobal.com/Malta/Russia/Russian/Study-short-term.html#tourist_visaFees).  
+В ВЦ **заплатить** [2600 руб визового и 1850 руб сервисного сбора](https://www.vfsglobal.com/Malta/Russia/Russian/Study-short-term.html#tourist_visaFees).  
 На квитанции об оплате в кассе ВЦ вам подчеркнут *регистрационный номер* (пример **KAIN/230118/0001/01**), который нужно вводить вместе с *датой рождения* для [*проверки готовности паспорта* с визой](https://www.vfsvisaservicesrussia.com/Global-Passporttracking/Track/Index?q=shSA0YnE4pLF9Xzwon/x/EpJs2NIweLgQQ8d+rbZm2HanwHLl5q7EFC1SEvThrz+7tqYpENLJ+02HqEi24yulw==).  
 Если мы (StudyTrack) готовили анкету, то *сообщите* номер нам и мы будем следить, когда паспорт можно *забирать*.  
 Паспорт может получить другой человек по простой доверенности.  
